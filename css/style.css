@@ -1,0 +1,30 @@
+#sec1 {
+    margin-top: 290px;
+
+}
+.border {
+    border-bottom: 50px;
+    margin-left: 45%;
+    margin-right: 45%;
+    
+}
+body{
+    overflow-x: hidden;
+}
+#hover:hover svg path {
+fill:#111010;
+}
+#hover:hover h5{
+    color: #111010;
+}
+#hover:hover p{
+    color: #111010;
+}
+#hover {
+    background-color:gray;
+}
+#hover:hover {
+    background-color: rgb(133, 123, 123);
+    cursor: pointer;
+
+}
